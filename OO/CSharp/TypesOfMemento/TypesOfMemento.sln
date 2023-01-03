@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleExample", "SimpleExample\SimpleExample.csproj", "{0B8F2C5B-0FD3-4228-8DF6-699929612FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoUndoRedo", "MementoUndoRedo\MementoUndoRedo.csproj", "{2217F5B7-6233-4E67-8E5A-4D2497549AF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B8F2C5B-0FD3-4228-8DF6-699929612FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8F2C5B-0FD3-4228-8DF6-699929612FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8F2C5B-0FD3-4228-8DF6-699929612FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8F2C5B-0FD3-4228-8DF6-699929612FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2217F5B7-6233-4E67-8E5A-4D2497549AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2217F5B7-6233-4E67-8E5A-4D2497549AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2217F5B7-6233-4E67-8E5A-4D2497549AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2217F5B7-6233-4E67-8E5A-4D2497549AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

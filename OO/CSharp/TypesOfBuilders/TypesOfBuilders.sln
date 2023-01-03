@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacetadeBuilder", "FacetadeBuilder\FacetadeBuilder.csproj", "{FB08F547-D492-4C0D-893A-BBC508607270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalBuilder", "FunctionalBuilder\FunctionalBuilder.csproj", "{5A5E7D84-79D3-4548-8480-D790038157E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBuilder", "SimpleBuilder\SimpleBuilder.csproj", "{BF261EDF-68DF-4978-9C42-655B3A914C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB08F547-D492-4C0D-893A-BBC508607270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB08F547-D492-4C0D-893A-BBC508607270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB08F547-D492-4C0D-893A-BBC508607270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB08F547-D492-4C0D-893A-BBC508607270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A5E7D84-79D3-4548-8480-D790038157E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5E7D84-79D3-4548-8480-D790038157E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5E7D84-79D3-4548-8480-D790038157E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5E7D84-79D3-4548-8480-D790038157E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF261EDF-68DF-4978-9C42-655B3A914C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF261EDF-68DF-4978-9C42-655B3A914C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF261EDF-68DF-4978-9C42-655B3A914C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF261EDF-68DF-4978-9C42-655B3A914C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

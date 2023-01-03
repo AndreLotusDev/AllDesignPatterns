@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseExample", "CourseExample\CourseExample.csproj", "{4EA3D540-45C4-4710-B258-B2AFEAD9BCC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleIterator", "SimpleIterator\SimpleIterator.csproj", "{56A5D7AB-DBBE-4992-8833-C31981641B9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCartExample", "ShoppingCartExample\ShoppingCartExample.csproj", "{77D5F837-AF75-4C52-9B2A-37E5F2A488B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA3D540-45C4-4710-B258-B2AFEAD9BCC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA3D540-45C4-4710-B258-B2AFEAD9BCC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA3D540-45C4-4710-B258-B2AFEAD9BCC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA3D540-45C4-4710-B258-B2AFEAD9BCC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A5D7AB-DBBE-4992-8833-C31981641B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A5D7AB-DBBE-4992-8833-C31981641B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A5D7AB-DBBE-4992-8833-C31981641B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A5D7AB-DBBE-4992-8833-C31981641B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D5F837-AF75-4C52-9B2A-37E5F2A488B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D5F837-AF75-4C52-9B2A-37E5F2A488B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D5F837-AF75-4C52-9B2A-37E5F2A488B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D5F837-AF75-4C52-9B2A-37E5F2A488B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

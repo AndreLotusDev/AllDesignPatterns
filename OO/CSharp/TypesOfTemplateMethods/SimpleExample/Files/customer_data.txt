@@ -1,0 +1,6 @@
+age,name,address
+34,Bailie Guilloton,7039 Meadow Ridge Place
+3,Ashlee Burdis,70865 Mockingbird Parkway
+32,Claudianus Vequaud,2280 Springs Alley
+69,Kaitlynn Crab,8373 Reinke Way
+83,Marissa Swede,60426 Randy Crossing

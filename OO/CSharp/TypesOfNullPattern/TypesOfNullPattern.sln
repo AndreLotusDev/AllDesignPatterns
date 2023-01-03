@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleNullPatern", "SimpleNullPatern\SimpleNullPatern.csproj", "{7D91108D-5A0F-4805-AD44-2A358DC93B00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonNullPatern", "SingletonNullPatern\SingletonNullPatern.csproj", "{1EE1274B-FF3B-4C54-88EF-23A8222DD57B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D91108D-5A0F-4805-AD44-2A358DC93B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D91108D-5A0F-4805-AD44-2A358DC93B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D91108D-5A0F-4805-AD44-2A358DC93B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D91108D-5A0F-4805-AD44-2A358DC93B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE1274B-FF3B-4C54-88EF-23A8222DD57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE1274B-FF3B-4C54-88EF-23A8222DD57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE1274B-FF3B-4C54-88EF-23A8222DD57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE1274B-FF3B-4C54-88EF-23A8222DD57B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

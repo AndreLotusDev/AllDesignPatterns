@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleExample", "SimpleExample\SimpleExample.csproj", "{4C041745-8B31-40E6-80D2-0F735B3FD4D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBroker", "EventBroker\EventBroker.csproj", "{B4C7886C-28A9-4E29-B9BB-8F38A130ABB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaTRExample", "MediaTRExample\MediaTRExample.csproj", "{7C46F8CE-5E1F-457F-8A29-2C6031E28826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C041745-8B31-40E6-80D2-0F735B3FD4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C041745-8B31-40E6-80D2-0F735B3FD4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C041745-8B31-40E6-80D2-0F735B3FD4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C041745-8B31-40E6-80D2-0F735B3FD4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C7886C-28A9-4E29-B9BB-8F38A130ABB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C7886C-28A9-4E29-B9BB-8F38A130ABB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C7886C-28A9-4E29-B9BB-8F38A130ABB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C7886C-28A9-4E29-B9BB-8F38A130ABB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C46F8CE-5E1F-457F-8A29-2C6031E28826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C46F8CE-5E1F-457F-8A29-2C6031E28826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C46F8CE-5E1F-457F-8A29-2C6031E28826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C46F8CE-5E1F-457F-8A29-2C6031E28826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
